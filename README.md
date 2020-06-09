@@ -1,0 +1,2 @@
+# GNP
+Global News Patch
